@@ -1,0 +1,2 @@
+# ビルボードHot100のスクレイピング
+BillboardHot100とBillboardJapanHot100のスクレイピングスクリプト
